@@ -1,0 +1,26 @@
+{
+  "name": "express_note_taker",
+  "version": "1.0.0",
+  "description": "https://github.com//Note Taker",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "inquirer": "^8.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GrantShell/express_note_taker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GrantShell/express_note_taker/issues"
+  },
+  "homepage": "https://github.com/GrantShell/express_note_taker#readme"
+}
