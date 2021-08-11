@@ -1,6 +1,6 @@
 # Note Taker
 
-https://github.com//Note Taker
+
 
 # Description
 
