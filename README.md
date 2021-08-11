@@ -1,7 +1,5 @@
 # Note Taker
 
-https://github.com//Note Taker
-
 # Description
 
 allows you to add and delete notes for yourself
