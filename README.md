@@ -1,5 +1,10 @@
 # Note Taker
 
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> 5300c7bb56c65c6c87112012a9c40aa6247b4494
 # Description
 
 allows you to add and delete notes for yourself
